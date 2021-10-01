@@ -1,6 +1,6 @@
 ### Hi there 👋 🐱
 
-<a href="https://www.linkedin.com/in/montesrocio/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/supriti-dan-91253972/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="https://github.com/roxiomontes">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dansupriti&theme=material-palenight" />
